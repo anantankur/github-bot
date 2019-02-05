@@ -1,0 +1,11 @@
+{
+    "default": {
+        "readme": {
+            "additions": 5,
+            "deletions": 1,
+            "changes": 6,
+            "mergeMsgs": "Thank you for your PR, I have been configured to automatically merge PR's that match certain conditions. ",
+            "reviewMsg": "I am unable to process this PR for automatic merging. A code review from a maintainer has been requested!"
+        }
+    }
+}
